@@ -29,5 +29,6 @@ The most expensive hobby I have is building model kits. I own at least $700 in s
 <img src="Images/IMG_1059.jpg">
 
 Song Name | Artist | Genre | Year Released | Notes
+|------|------|------|-------|-------|
 Bayle The Dread | Tsukasa Saito, Yuka Kitamura | Video Game | Sounds Powerful
 
