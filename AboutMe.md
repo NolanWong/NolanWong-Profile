@@ -30,5 +30,13 @@ The most expensive hobby I have is building model kits. I own at least $700 in s
 
 Song Name | Artist | Genre | Year Released | Notes
 |------|------|------|-------|-------|
-Bayle The Dread | Tsukasa Saito, Yuka Kitamura | Video Game | Sounds Powerful
+Bayle The Dread | Tsukasa Saito, Yuka Kitamura | Video Game | 2024 | Sounds Powerful
+Stargazer | High FreQuency | Video Game | 2023 | Worthy of a final boss
+Contact With You | High FreQuency | Video Game | 2023 | One of the best songs in Armored Core
+Cries of Coral | High FreQuency | Video Game | 2023 | Great times...
+Steel Haze | High FreQuency | Video Game | 2023 | "Hey, Buddy."
 
+
+~~~ HTML
+<Button>ch.6  Breach The Karaman Line</Button>
+~~~
