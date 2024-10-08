@@ -1,2 +1,0 @@
-# NolanWong-Profile
-Profile introduction
