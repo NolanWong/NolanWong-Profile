@@ -26,4 +26,4 @@ The most expensive hobby I have is building model kits. I own at least $700 in s
 ## Role Models
 
 - My dad
-<img src="Images/IMG_1059">
+<img src="Images/IMG_1059.jpg">
