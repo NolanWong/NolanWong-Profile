@@ -26,7 +26,7 @@ others:
 [My dad]<br>
 <img src="Images/IMG_1059.jpg"><br>
 [Katsumi Kawaguchi]<br>
-<img src="Images/Image.webp"><br>
+<img src="Images/images.webp"><br>
 [Hidetaka Miyazaki]<br>
 <img src="Images/download.jpg"><br>
 
