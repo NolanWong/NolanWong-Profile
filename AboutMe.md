@@ -5,7 +5,7 @@ Hi, my name is Nolan Changjun Wong. This is my profile.
 
 ## Summary
 
-Am Student
+Am Student, like games.
 
 ## My Hobbies
 
@@ -14,23 +14,27 @@ others:
 - RPG Builds
 - Video Games
 
-##Philosophy
-"When You dpon't yry, you don't fail. However, you cannot win"
+## Philosophy
+*"When You dpon't yry, you don't fail. However, you cannot win"*
 
-## Role Models
+## Quotes
+"Coral, abide with Rubicon. Coral, endure within us all, **For none of us shall cast the die**" - Thumb Dolmayan
+"Hate to say it, but Rubicon still needs me. So, buddy... **who needs you?**" - Rusty
 
-- My dad
-<img src="Images/IMG_1059.jpg">
+## Persons of interest
 
-Song Name | Artist | Genre | Year Released | Notes
-|------|------|------|-------|-------|
-Bayle The Dread | Tsukasa Saito, Yuka Kitamura | Video Game | 2024 | Sounds Powerful
-Stargazer | High FreQuency | Video Game | 2023 | Worthy of a final boss
-Contact With You | High FreQuency | Video Game | 2023 | One of the best songs in Armored Core
-Cries of Coral | High FreQuency | Video Game | 2023 | Great times...
-Steel Haze | High FreQuency | Video Game | 2023 | "Hey, Buddy."
+[My dad]<br>
+<img src="Images/IMG_1059.jpg"><br>
+[Katsumi Kawaguchi]<br>
+<img src=""><br>
+[Hidetaka Miyazaki]<br>
+<img src=""><br>
 
 
-~~~ HTML
-<Button>ch.6  Breach The Karaman Line</Button>
-~~~
+## Favorite terms
+Term | Def 
+|------|------|
+choom | friend
+Zero'd | to die
+Wizard | awesome
+Raven | One with the will to chose what to fight for
